@@ -7,7 +7,7 @@
 ![Lint](https://img.shields.io/badge/GolangCI--Lint-Passing-00ADD8?style=for-the-badge)
 ![Dependabot](https://img.shields.io/badge/Dependabot-Enabled-025E9C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-> Log-Aggregator - Open source tool by Qyroxen
+> Log-Aggregator - Open source tool by AetherCodeHQ
 
 `aggregation` `cli` `golang` `logs` `monitoring`
 
@@ -30,7 +30,7 @@
 
 ### Install from source
 ```bash
-git clone https://github.com/Qyroxen/Log-Aggregator.git
+git clone https://github.com/AetherCodeHQ/Log-Aggregator.git
 cd Log-Aggregator
 go build -o Log-Aggregator .
 ```
@@ -95,7 +95,7 @@ go build -o Log-Aggregator .
 
 ```bash
 # Clone the repo
-git clone https://github.com/Qyroxen/Log-Aggregator.git
+git clone https://github.com/AetherCodeHQ/Log-Aggregator.git
 cd Log-Aggregator
 
 # Build
@@ -123,5 +123,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Qyroxen">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
+  Built with ❤️ by <a href="https://github.com/AetherCodeHQ">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
 </p>
